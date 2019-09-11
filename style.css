@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+p {
+	color: red;
+	font-size: 125%;
+	font-weight: bold;
+}
+a {
+	font-weight: bold;
+	color: darkblue;
+	font-size: 140%;
+}
+body {
+	background: cyan;
+}
+img {
+	width: 15%;
+}
